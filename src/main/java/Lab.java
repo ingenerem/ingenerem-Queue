@@ -38,7 +38,7 @@ public class Lab {
      * Stack behavior.
      */
     public Deque<String> createQueue(){
-        return new ArrayDeque()<>();
+        return new LinkedList<>();
     }
 
     /**
